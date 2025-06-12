@@ -1,0 +1,28 @@
+.app-container {
+  max-width: 430px;
+  margin: 60px auto;
+  background: #fff;
+  border-radius: 18px;
+  padding: 36px 26px 24px 26px;
+  box-shadow: 0 8px 40px rgba(47, 65, 117, 0.14);
+  /* Subtle glass effect */
+  backdrop-filter: blur(4px);
+}
+
+.app-title {
+  text-align: center;
+  font-size: 2.3rem;
+  margin-bottom: 30px;
+  letter-spacing: 2px;
+  color: #4755a6;
+  font-weight: 700;
+  text-shadow: 0 1px 3px #e5eaff;
+}
+
+.footer {
+  margin-top: 48px;
+  text-align: center;
+  color: #b4bbd6;
+  font-size: 1.06rem;
+  letter-spacing: 0.7px;
+}
