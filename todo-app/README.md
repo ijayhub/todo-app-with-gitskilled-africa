@@ -1,6 +1,6 @@
 # TaskNest
 
-A modern, minimalist open-source to-do app built with React, modular components, and beautiful plain CSS.
+A modern, minimalist open-source to-do app built with React, modular components, and plain CSS.
 
 ![TaskNest Screenshot](./screenshot.png)
 
