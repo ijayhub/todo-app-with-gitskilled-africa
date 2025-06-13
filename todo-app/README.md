@@ -38,7 +38,7 @@ A modern, minimalist open-source to-do app built with React, modular components,
 
 3. **Start the app**
    ```bash
-   npm start
+   npm start or npm run dev
    ```
    The app runs at [http://localhost:3000](http://localhost:3000).
 
